@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI & ML**
 
-- 👯 I have made several projects **like class scheduling system,gym application etc ehich displays my skills in full stack web development**
+- 👯 I have made several projects **like class scheduling system,gym application etc which displays my skills in full stack web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gaurav5327](https://github.com/gaurav5327)
 
